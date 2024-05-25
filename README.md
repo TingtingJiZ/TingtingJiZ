@@ -3,7 +3,7 @@
 ## About me! 😼
 - I am currently studying Developer Full Stack
 - I am currently working on small projects
-- I like to play videogames 👾
+- I like play videogames 👾
 - How to reach me tingtingiesfuengirola1@gmail.com
 
 ## Skills 🚀
