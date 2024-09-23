@@ -5,8 +5,8 @@
 - I am currently studying Developer Full Stack
 - I am currently working on small projects
 - I like play videogames 👾
-- How to reach me
-  [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tingting-ji-18814b2a1/)
+## Contact
+[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tingting-ji-18814b2a1/)
 
 ## My Toolbox 🚀
 <p align="center">
