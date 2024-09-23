@@ -8,7 +8,7 @@
 
 ## Contact
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tingting-ji-18814b2a1/)
-[![Contact](https://skillicons.dev/icons?i=mail)]
+[![Contact](https://skillicons.dev/icons?i=email)]
 ## My Toolbox 🚀
 <p align="left">
   <a href="https://skillicons.dev">
