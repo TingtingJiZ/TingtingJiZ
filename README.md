@@ -7,5 +7,9 @@
 - I like play videogames 👾
 - How to reach me tingtingiesfuengirola1@gmail.com
 
-## Language and Tools 🚀
-[![My Skills](https://skillicons.dev/icons?i=python,react,js,html,css,bootstrap,)](https://skillicons.dev)
+## My Toolbox 🚀
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,react,js,boostrap,html,css," />
+  </a>
+</p>
