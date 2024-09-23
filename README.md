@@ -10,6 +10,6 @@
 ## My Toolbox 🚀
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,js,boostrap,html,css," />
+    <img src="https://skillicons.dev/icons?i=python,react,js,bootstrap,html,css," />
   </a>
 </p>
