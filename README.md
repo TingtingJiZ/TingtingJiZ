@@ -8,10 +8,10 @@
 
 ## Contact
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tingting-ji-18814b2a1/)
-
+[![Contact](https://skillicons.dev/icons?i=mail)](tingtingiesfuengirola1@gmail.com)
 ## My Toolbox 🚀
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,js,nodejs,npm,mysql,bootstrap,html,css,vscode,replit,postman," />
+    <img src="https://skillicons.dev/icons?i=python,react,js,nodejs,npm,mysql,bootstrap,html,css,vscode,replit,postman,flask" />
   </a>
 </p>
