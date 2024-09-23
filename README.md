@@ -6,13 +6,14 @@
 - I am currently building discord bots
 - I like play videogames 👾
 
-## Contact
-[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tingting-ji-18814b2a1/)
-<a href="mailto:tingtingiesfuengirola1@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" />
-
 ## My Toolbox 🚀
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,react,js,nodejs,npm,mysql,bootstrap,html,css,vscode,replit,postman,flask" />
   </a>
 </p>
+
+## Contact
+[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tingting-ji-18814b2a1/)
+<a href="mailto:tingtingiesfuengirola1@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" />
+
