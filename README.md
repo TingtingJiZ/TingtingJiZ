@@ -8,7 +8,7 @@
 
 ## Contact
 [![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tingting-ji-18814b2a1/)
-<a href="mailto:tingtingiesfuengirola1@gmail.com"> <img src="https://skillicons.dev/icons?i=mail" />
+<a href="mailto:tingtingiesfuengirola1@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" />
 
 ## My Toolbox 🚀
 <p align="left">
