@@ -8,7 +8,7 @@
 
 ## My Toolbox 🚀
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=python,react,js,nodejs,npm,mysql,bootstrap,html,css,vscode,replit,postman,flask" />
   </a>
 </p>
